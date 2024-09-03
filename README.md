@@ -1,1 +1,4 @@
 # Comaprision-of-Classification-Models-in-Machine-Learning
+The project involved training and evaluating two machine learning models, Decision Tree and Random Forest, for predicting BMI.
+The code implements a comprehensive machine learning project for predicting BMI using two models: Decision Tree and Random Forest. After training and evaluating these models, it was found that the Random Forest model achieved a higher accuracy of 82%, while the Decision Tree model had an accuracy of 75%/79%.
+We have predicted with these results that the Random Forest model is recommended as the better choice for predicting BMI in this project. Random Forest models generally tend to handle complex datasets and capture more intricate patterns compared to Decision Trees, which likely contributed to its superior performance in this context.
